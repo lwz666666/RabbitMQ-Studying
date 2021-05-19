@@ -1,13 +1,13 @@
-package com.lwz.study;
+package com.lwz.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RabbitMqStudyingApplication {
+public class HelloworldApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RabbitMqStudyingApplication.class, args);
+        SpringApplication.run(HelloworldApplication.class, args);
     }
 
 }

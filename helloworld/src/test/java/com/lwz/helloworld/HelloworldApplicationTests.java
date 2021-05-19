@@ -1,10 +1,10 @@
-package com.lwz.study;
+package com.lwz.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RabbitMqStudyingApplicationTests {
+class HelloworldApplicationTests {
 
     @Test
     void contextLoads() {
