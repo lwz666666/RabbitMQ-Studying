@@ -8,15 +8,17 @@
         <version>2.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.lwz</groupId>
-    <artifactId>study</artifactId>
+    <artifactId>RabbitMQ-Studying</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>RabbitMQ-Studying</name>
-    <description>Demo project for Spring Boot</description>
+
     <modules>
         <module>helloworld</module>
+        <module>workqueues</module>
     </modules>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
