@@ -17,6 +17,7 @@
     <modules>
         <module>helloworld</module>
         <module>workqueues</module>
+        <module>publish-subscribe</module>
     </modules>
 
     <properties>
